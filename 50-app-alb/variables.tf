@@ -16,3 +16,10 @@ variable "common_tags"{
     }
 }
 
+variable "zone_id"{
+   default = "Z088507921CM7JA4XS14G"
+}
+
+variable "domain_name"{
+    default = "basam.site"
+}
